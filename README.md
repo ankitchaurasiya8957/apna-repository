@@ -1,3 +1,3 @@
 # apna-repository
-my first repository
+my first repository.
 Author-ankit chaurasiya
